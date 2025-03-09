@@ -62,3 +62,5 @@ DerivedData/
 ### 他のケースでも生成されるかもしれないが分からなかった
 ### https://developer.apple.com/library/archive/qa/qa1514/_index.html
 /*.gcno
+
+xcuserdata/
